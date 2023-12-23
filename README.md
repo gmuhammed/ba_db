@@ -24,7 +24,7 @@ This database contains British Airways flights, including prices, distance, depa
 **Questions to Investigate**
 
 <ol>
-  <li> [Question Group 1](https://github.com/gmuhammed/ba_db/blob/main/question_group_1/query.sql) </li>
+  <li> Question Group 1 </li>
       <ul>
         <li>what are the top 5 flights with the highest revenue</li>
         <li>what is the average fuel consumption per passenger for all flights</li>
