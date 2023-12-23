@@ -2,7 +2,7 @@
 
 **British Airways Database**
 
-This database contains British Airways flights, including prices, distance, departure and arrival cities, and more. It accessible via Bee Keeper URL: postgres://Test:bQNxVzJL4g6u@ep-noisy-flower-846766.us-east-2.aws.neon.tech/SQL_1_1
+This database contains British Airways flights, including prices, distance, departure and arrival cities, and more. It is accessible via Bee Keeper URL: postgres://Test:bQNxVzJL4g6u@ep-noisy-flower-846766.us-east-2.aws.neon.tech/SQL_1_1
 
 | Data Attibute                   | Description |
 | --------                        | ------- |
@@ -19,6 +19,7 @@ This database contains British Airways flights, including prices, distance, depa
 | revenue_from_baggage (number)   | Total revenue standardised in £    |
 | distance_flown (number)         | Distance between departure and arrival city in km    |
 
+<br>
 
 **Questions to Investigate**
 
@@ -38,8 +39,8 @@ This database contains British Airways flights, including prices, distance, depa
         <li>calculate the revenue per kilometer for each flight</li>
         <li>rank airlines based on the percentage of flights that have bike bags onboard</li>
       </ul>
-
-       <li>Question Group 2</li>
+  <br>
+  <li>Question Group 2</li>
       <ul>
         <li>Find the top three flights with the highest fuel efficiency relative to the distance flown</li>
         <li>Determine which airlines operate flights between the highest number of unique city pairs</li>
